@@ -1,0 +1,13 @@
+# Datasets, model weights, cached styles, and experiment output
+data/
+results/
+logs/
+out/
+*.pth
+*.pt
+*.log
+*.csv
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store

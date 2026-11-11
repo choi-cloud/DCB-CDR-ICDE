@@ -1,0 +1,1 @@
+Set config.json root to ./data/ before using the commands in README.md. This candidate includes no data or model weights.
